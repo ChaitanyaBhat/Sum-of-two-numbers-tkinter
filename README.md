@@ -1,4 +1,4 @@
-# Sum of two numbers
+# Sum of two numbers:
 
 This is developed using Tkinter. 
 It is a small app, where user entered two numbers are added and the result is displayed.
